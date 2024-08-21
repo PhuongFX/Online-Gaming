@@ -1,30 +1,14 @@
----
-title: OnlineGame
-emoji: 🚀
-colorFrom: red
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.36.0
-app_file: app.py
-pinned: false
----
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
-Here's an updated version of the README with a more conversational tone, added emojis, and more visual appeal:
 
 **Gaming Engagement Prediction 🎮**
 =====================================
 
-**Welcome! 🤗**
-------------
-
 Are you curious about what makes gamers tick? 🤔 Do you want to know how to predict their engagement levels? 📊 Well, you're in the right place! 😊 This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
 
-**The Dataset 📊**
+**Dataset 📊**
 ----------------
 
-Our dataset contains 40,034 samples and 13 features. 🤯 It's a treasure trove of information about gamers and their behavior. 🎉 Here's a sneak peek at what's inside:
+Containing 40,034 samples and 13 features. 🤯 It's a treasure trove of information about gamers and their behavior. 🎉 Here's a sneak peek at what's inside:
 
 * `PlayerID`: Unique identifier for each player
 * `Age`: Age of the player
@@ -43,11 +27,11 @@ Our dataset contains 40,034 samples and 13 features. 🤯 It's a treasure trove 
 **Methodology 📝**
 ----------------
 
-Here's a step-by-step guide to how we approached this project:
+Here's a step-by-step guide to how to approached this project:
 
-1. **Data Preprocessing 🧹**: We cleaned and preprocessed the dataset by removing missing values, encoding categorical variables, and scaling numerical variables.
-2. **Exploratory Data Analysis (EDA) 🔍**: We explored the dataset to understand the distribution of each feature and their relationships.
-3. **Modeling 🤖**: We trained and evaluated several machine learning models to predict the engagement level of gamers. The models used include:
+1. **Data Preprocessing 🧹**: Removing missing values, encoding categorical variables, and scaling numerical variables.
+2. **Exploratory Data Analysis (EDA) 🔍**: Exploring the dataset to understand the distribution of each feature and their relationships.
+3. **Modeling 🤖**: Training and evaluating several machine learning models to predict the engagement level of gamers. The models used include:
 	* Logistic Regression
 	* K-Nearest Neighbors
 	* Support Vector Machines
@@ -62,7 +46,7 @@ Here's a step-by-step guide to how we approached this project:
 	* LGBMClassifier
 	* CatBoostClassifier
 	* ExtraTreesClassifier
-4. **Hyperparameter Tuning 🔧**: We tuned hyperparameters using Bayesian optimization to improve the performance of the models.
+4. **Hyperparameter Tuning 🔧**: Tuning hyperparameters using Bayesian optimization to improve the performance of the models.
 
 **Results 📊**
 --------------
