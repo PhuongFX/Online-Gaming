@@ -53,26 +53,18 @@ Here's a step-by-step guide to how to approached this project:
 
 The best performing model was the XGB model with an accuracy of 91.64% on the test set. 🎉 Here are the results of the other models:
 
-| Model | Accuracy |
-| --- | --- |
-| XGB | 91.64% |
-| RandomForest | 91.42% |
-|... |... |
-
-**Model Comparison 📊**
--------------------
-
-We compared the performance of the top two models (XGB and RandomForest) and here's what we found:
-
 | Model | Training Accuracy | Test Accuracy |
 | --- | --- | --- |
 | XGB | 93.39% | 91.64% |
 | RandomForest | 92.12% | 91.42% |
 
-**GIF 🎥**
-----------
+**Fine Tuning 📊**
+-------------------
 
-We created a GIF showing the engagement level of gamers based on their age and game genre. 🎮
+<p align='center'>
+  <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" />
+</p>
+
 
 **Conclusion 🤔**
 --------------
@@ -84,19 +76,7 @@ Predicting gamer engagement is a complex task, but with the right approach and t
 
 This project is licensed under the MIT License.
 
-**Acknowledgments 🙏**
-------------------
 
-We would like to thank the creators of the dataset for making it available. 🙏
-
-**Contributing 🤝**
-----------------
-
-Want to contribute to this project? 🤔 Here are some ways you can help:
-
-* Improve the models by trying out different techniques and algorithms
-* Add more features to the dataset to improve the accuracy of the models
-* Create more visualizations to help understand the data and the results
 
 **Contact 📲**
 --------------
@@ -104,19 +84,7 @@ Want to contribute to this project? 🤔 Here are some ways you can help:
 Have any questions or feedback? 🤔 Want to collaborate on a project? 🤝 Contact us at [insert contact info].
 
 
-#-----------------------------------------------------------------------------------------------
-Here's the updated README:
 
-**Gaming Engagement Prediction 🎮**
-=====================================
-
-**Welcome to Our Project! 🤗**
----------------------------
-
-Are you curious about what makes gamers tick? 🤔 Do you want to know how to predict their engagement levels? 📊 Well, you're in the right place! 😊 This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
-
-**How We Did It 📝**
---------------------
 
 ### Step 1: Data Preprocessing 🧹
 
@@ -167,25 +135,18 @@ While our project achieved good results, there are some limitations to consider:
 * Our dataset was limited to a specific type of game, which may not generalize to other types of games.
 * We assumed that the features we used were relevant to predicting engagement levels, but there may be other factors that are more important.
 
-**What's Next? 🤔**
+**Model Deployment**
 -----------------
 
-We hope you found our project interesting and informative. If you'd like to try out our model or contribute to our project, please let us know! We'd love to hear from you.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-online-gaming-lvpredict.streamlit.app)
+
 
 **Get Involved 🤝**
 -----------------
 
-* Try out our model: [insert link]
-* Contribute to our project: [insert link]
-* Contact us: [insert email]
+I hope you found our project interesting and informative. If you'd like to try out the model or contribute to the project, please let me know! I'd love to hear from you.
 
-**Thanks for Reading! 🙏**
--------------------------
 
-We hope you enjoyed our project. If you have any questions or feedback, please don't hesitate to reach out.
-
-#-----------------------------------------------------------------------------------
-Here is the updated README:
 
 **GamerDNA: Analyzing Online Gaming Behavior 🎮**
 =============================================
