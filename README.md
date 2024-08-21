@@ -57,7 +57,7 @@ Here's a step-by-step guide to how to approached this project:
 **Results 📊**
 --------------
 
-The best performing model was the XGB model with an accuracy of 91.64% on the test set. 🎉 Here are the results of the other models:
+The best performing model was the XGB model with an accuracy of 91.64% on the test set.
 
 | Model | Training Accuracy | Test Accuracy |
 | --- | --- | --- |
