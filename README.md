@@ -5,10 +5,44 @@
 
 Are you curious about what makes gamers tick? 🤔 Do you want to know how to predict their engagement levels? 📊 Well, you're in the right place! 😊 This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
 
-**Model Deployment 🎮**
------------------
+**🎮GamerDNA!** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-online-gaming-lvpredict.streamlit.app)
+==========================
+Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-online-gaming-lvpredict.streamlit.app)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-orange.svg)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-green.svg)](https://www.tensorflow.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-green.svg)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
+
+
+> A machine learning-based application designed to analyze online gaming behavior and predict player engagement levels.
+
+> This application is intended to assist game developers in identifying players at risk of churn and creating personalized experiences to increase player satisfaction and loyalty .
+
+<p align='center'>
+  <img src="https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/Screenshots/Interface_Screenshot%202024-08-19%20230802.jpg" />
+</p>
+
+
+**How it Works 🫶**
+-------------------
+
+### Step 1: Select the Features
+
+* Choose the characteristics that describe the player and the game 📝.
+* Select the features that are relevant to your analysis.
+
+### Step 2: Click the 'Predict' Button
+
+* Get the predicted engagement level of the player 📊.
+* Use the predicted engagement level to create personalized experiences for the player.
+
+### Step 3: Get the Results
+
+* Use the app to predict player engagement levels for note-taking, research, or content creation 📝.
+
 
 **Dataset 📊**
 ----------------
