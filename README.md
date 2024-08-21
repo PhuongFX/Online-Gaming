@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
 **Get Involved 🤝**
 -----------------
 
-I hope you found the project interesting and informative. If you'd like to try out the model or contribute to the project, please let me know! I'd love to hear from you. [insert contact info]
+I hope you found the project interesting and informative. If you'd like to try out the model or contribute to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
 
