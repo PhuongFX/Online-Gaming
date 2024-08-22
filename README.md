@@ -22,7 +22,7 @@ Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 > This application is intended to assist game developers in identifying players at risk of churn and creating personalized experiences to increase player satisfaction and loyalty .
 
 <p align='center'>
-  <img src="https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/Screenshots/Interface_Screenshot%202024-08-19%20230802.jpg" />
+  <img src="https://github.com/PhuongFX/Online-Gaming/blob/main/Demo/Screenshot%202024-08-22%20162808.jpg" />
 </p>
 
 
