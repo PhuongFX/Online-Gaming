@@ -87,7 +87,6 @@ Here's a step-by-step guide to how to approached this project:
 4. **Hyperparameter Tuning 🔧**: Tuning hyperparameters using Bayesian optimization to improve the performance of the models.
 
 ## `Results` 📊
---------------
 
 The best performing model was the XGB model with an accuracy of 91.64% on the test set.
 
@@ -96,8 +95,8 @@ The best performing model was the XGB model with an accuracy of 91.64% on the te
 | XGB | 93.39% | 91.64% |
 | RandomForest | 92.12% | 91.42% |
 
-## `Fine Tuning` 📊
-
+## `Fine Tuning` 🔧
+--------------
 
 <p align='center'>
   <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" />
