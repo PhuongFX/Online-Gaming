@@ -106,9 +106,10 @@ The best performing model was the XGB model with an accuracy of 91.64% on the te
 Predicting gamer engagement is a complex task, but with the right approach and techniques, we can achieve high accuracy. 📈 This project demonstrates the power of machine learning in understanding gamer behavior and predicting their engagement levels.
 
 
-## `License` 📜
+## `🙅‍♂️Disclaimer`
 
-This project is licensed under the MIT License.
+> This app is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
+The GamerDNA model is a pre-trained model and may not always produce accurate results.
 
 
 ## `Get Involved!` 😌
