@@ -125,6 +125,6 @@ If you'd like to try out the model or contribute to the project, please let me k
 To get started with this project, you'll need to:
 
 * Install the required libraries, including TensorFlow, Keras, and OpenCV 📦
-* Download the dataset from Kaggle 📈
+* Download kaggle datasets using `download -d gpiosenka/butterfly-images40-species` 📈
 * Run the code to train and evaluate the model 🤖
 
