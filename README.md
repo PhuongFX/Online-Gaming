@@ -26,8 +26,7 @@ Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 </p>
 
 
-**How it Works 🫶**
--------------------
+## `How it Works` 🫶
 
 ### Step 1: Select the Features
 
@@ -44,8 +43,8 @@ Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 * Use the app to predict player engagement levels for note-taking, research, or content creation 📝.
 
 
-**Dataset 📊**
-----------------
+## `Dataset` 📊
+
 
 Containing 40,034 samples and 13 features. Here's a sneak peek at what's inside:
 
@@ -64,8 +63,7 @@ Containing 40,034 samples and 13 features. Here's a sneak peek at what's inside:
 * `EngagementLevel`: Engagement level of the player (Low, Medium, High)
 
 
-**Architecture 🤖**
-------------------
+## `Architecture` 🤖
 
 Here's a step-by-step guide to how to approached this project:
 
@@ -88,7 +86,7 @@ Here's a step-by-step guide to how to approached this project:
 	* ExtraTreesClassifier
 4. **Hyperparameter Tuning 🔧**: Tuning hyperparameters using Bayesian optimization to improve the performance of the models.
 
-**Results 📊**
+## `Results` 📊
 --------------
 
 The best performing model was the XGB model with an accuracy of 91.64% on the test set.
@@ -98,8 +96,8 @@ The best performing model was the XGB model with an accuracy of 91.64% on the te
 | XGB | 93.39% | 91.64% |
 | RandomForest | 92.12% | 91.42% |
 
-**Fine Tuning 📊**
--------------------
+## `Fine Tuning` 📊
+
 
 <p align='center'>
   <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" />
@@ -109,17 +107,26 @@ The best performing model was the XGB model with an accuracy of 91.64% on the te
 Predicting gamer engagement is a complex task, but with the right approach and techniques, we can achieve high accuracy. 📈 This project demonstrates the power of machine learning in understanding gamer behavior and predicting their engagement levels.
 
 
-**License 📜**
---------------
+## `License` 📜
 
 This project is licensed under the MIT License.
 
 
-**Get Involved 🤝**
------------------
+## `Get Involved!` 😌
 
-I hope you found the project interesting and informative. If you'd like to try out the model or contribute to the project, please let me know! I'd love to hear from you.
+I hope you found this project informative and engaging! 😊   
+If you'd like to try out the model or contribute to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
+
+
+
+## `Getting Started` 🚀
+
+To get started with this project, you'll need to:
+
+* Install the required libraries, including TensorFlow, Keras, and OpenCV 📦
+* Download the dataset from Kaggle 📈
+* Run the code to train and evaluate the model 🤖
 
 
