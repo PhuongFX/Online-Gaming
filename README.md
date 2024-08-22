@@ -19,7 +19,7 @@ Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 
 > A machine learning-based application designed to analyze online gaming behavior and predict player engagement levels.
 
-> This application is intended to assist game developers in identifying players at risk of churn and creating personalized experiences to increase player satisfaction and loyalty .
+> This application is intended to assist game developers in identifying players at risk of churn and creating personalized experiences to increase player satisfaction and loyalty.
 
 <p align='center'>
   <img src="https://github.com/PhuongFX/Online-Gaming/blob/main/Demo/Screenshot%202024-08-22%20162808.jpg" />
@@ -104,6 +104,12 @@ The best performing model was the XGB model with an accuracy of 91.64% on the te
 
 --------------
 Predicting gamer engagement is a complex task, but with the right approach and techniques, we can achieve high accuracy. 📈 This project demonstrates the power of machine learning in understanding gamer behavior and predicting their engagement levels.
+
+## `Example Use Cases`
+
+* Analyze online gaming behavior to identify patterns and trends.
+* Predict player engagement levels to inform game development and marketing strategies.
+* Use the application to identify areas for improvement in game design and player experience.
 
 
 ## `🙅‍♂️Disclaimer`
