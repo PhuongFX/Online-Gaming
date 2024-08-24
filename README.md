@@ -119,9 +119,8 @@ The GamerDNA model is a pre-trained model and may not always produce accurate re
 
 
 ## `Get Involved!` 😌
-
-I hope you found this project informative and engaging! 😊   
-If you'd like to try out the model or contribute to the project, please let me know! I'd love to hear from you.
+I hope you found this project informative and engaging! 😊  
+If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
 
@@ -135,3 +134,4 @@ To get started with this project, you'll need to:
 * Download kaggle datasets using `download -d gpiosenka/butterfly-images40-species` 📈
 * Run the code to train and evaluate the model 🤖
 
+Enjoy working with the content! 😊
