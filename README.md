@@ -15,7 +15,7 @@ Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-green.svg)](https://www.tensorflow.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-green.svg)](https://en.wikipedia.org/wiki/Machine_learning)
 [![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/Online-Gaming)
 
 
 > A machine learning-based application designed to analyze online gaming behavior and predict player engagement levels.
